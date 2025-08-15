@@ -14,9 +14,6 @@
  docker-compose up --build -d
 ```
 
-- Necessário alterar as configuraçoes de Conexão do MySQL para se conectar via DBeaber - Setar propriedade allowPublicKeyRetrieval para TRUE
-
-
 - Iniciar os containers
 ```
  docker-compose up -d
@@ -27,4 +24,9 @@
  docker-compose down
 ```
 
-- Após iniciar os containers basta acessar o endpoint http://localhost:3333/ para receber o seu oi do Goku :smile:.
+- Após iniciar os containers basta acessar o endpoint http://localhost:3333/ para receber o seu oi do Albino :smile:.
+
+
+- Necessário alterar as configuraçoes de Conexão do MySQL para se conectar via DBeaber - Setar propriedade allowPublicKeyRetrieval para TRUE
+
+
