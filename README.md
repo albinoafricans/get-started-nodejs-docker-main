@@ -14,6 +14,9 @@
  docker-compose up --build -d
 ```
 
+- Necessário alterar as configuraçoes de Conexão do MySQL para se conectar via DBeaber - Setar propriedade allowPublicKeyRetrieval para TRUE
+
+
 - Iniciar os containers
 ```
  docker-compose up -d
